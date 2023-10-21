@@ -4,6 +4,6 @@
 
 Como parte do desafio de projeto do Santander Bootcamp 2023, nesse projeto foi explorado alguns padrões usando Java puro:
 
-- [Singleton]()
-- [Strategy]()
-- [Facade]()
+- [Singleton](https://github.com/DurezahGeek/Explorando_Padroes-Java/tree/main/src/one/digitalinovation/gof/singleton)
+- [Strategy](https://github.com/DurezahGeek/Explorando_Padroes-Java/tree/main/src/one/digitalinovation/gof/strategy)
+- [Facade](https://github.com/DurezahGeek/Explorando_Padroes-Java/tree/main/src/one/digitalinovation/gof/facade)
